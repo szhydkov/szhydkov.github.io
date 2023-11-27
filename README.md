@@ -11,3 +11,5 @@ Interests: mechanism design, social choice, social networks; anything to do with
 # Contacts
 
 initial [dot] lastname [at] warwick.ac.uk
+
+[LinkedIn](https://www.linkedin.com/in/szhydkov/) 
