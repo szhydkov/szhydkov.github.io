@@ -1,6 +1,6 @@
 PhD student at MathSys, University of Warwick. 
 
-Interests: mechanism design, social choice, social networks; anything to do with modeling strategic agents. 
+Interests: mechanism design, social choice, social networks; anything to do with modelling strategic agents. 
 
 # Publications
 
