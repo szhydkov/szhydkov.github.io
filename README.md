@@ -10,6 +10,8 @@ Interests: mechanism design, social choice, social networks; anything to do with
 
 # Work Experience
 
+AI Specialist Contractor at Woven Advice. "Developing a natural language data interaction tool for financial advisors"
+
 6 months Internship at Alan Turing Institute: "Quantifying the effects of adversarial machine learning"
 
 Teaching Assistant:
