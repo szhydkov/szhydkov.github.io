@@ -30,7 +30,7 @@ BSc Mathematics and Philosophy, University of Warwick
 
 MSc Mathematics of Systems, University of Warwick
 
-[in progress] PhD Mathematics of Systems, University of Warwick
+[pending viva] PhD Mathematics of Systems, University of Warwick
 
 # Contacts
 
